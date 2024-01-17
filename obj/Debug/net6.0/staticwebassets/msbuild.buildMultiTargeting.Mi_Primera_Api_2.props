@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mi_Primera_Api_2.props" />
+</Project>
